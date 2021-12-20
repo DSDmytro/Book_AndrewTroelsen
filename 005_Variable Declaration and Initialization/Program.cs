@@ -60,19 +60,6 @@ namespace _005_Variable_Declaration_and_Initialization
             Console.WriteLine("char.IsWhiteSpace('Hello there', 6): {0}", char.IsWhiteSpace("Hello there", 6));
             Console.WriteLine("char.IsPunctuation('?'): {0}", char.IsPunctuation('?'));
         }
-        static void ParseFromStrings()
-        {
-            // Синтаксический разбор типов данных - Парсинг
-            Console.WriteLine("Data Type Parsing");
-            bool b = bool.Parse("True");
-            Console.WriteLine("Value of b: {0}", b);
-            double d = double.Parse("99,884");
-            Console.WriteLine("Value of d: {0}", d);
-            int i = int.Parse("8");
-            Console.WriteLine("Value of i: {0}", i);
-            char c = char.Parse("w");
-            Console.WriteLine("Value of c: {0}", c);
-        }
         static void Main(string[] args)
         {
             LocalVarDeclarations();
@@ -85,7 +72,6 @@ namespace _005_Variable_Declaration_and_Initialization
             Console.WriteLine();
             CharFunctionality();
             Console.WriteLine();
-            ParseFromStrings();
         }
     }
 }
