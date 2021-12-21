@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Parse From Strings", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_DateTime, TimeSpan", "007_DateTime, TimeSpan\007_DateTime, TimeSpan.csproj", "{560CE823-125B-418C-9405-4B189429C81F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_String", "008_String\008_String.csproj", "{B602738A-932D-4CF0-9022-08E2C25B2525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_String_Escape characters, Verbatim string", "009_String_Escape characters, Verabtim string\009_String_Escape characters, Verbatim string.csproj", "{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{560CE823-125B-418C-9405-4B189429C81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{560CE823-125B-418C-9405-4B189429C81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{560CE823-125B-418C-9405-4B189429C81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B602738A-932D-4CF0-9022-08E2C25B2525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B602738A-932D-4CF0-9022-08E2C25B2525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B602738A-932D-4CF0-9022-08E2C25B2525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B602738A-932D-4CF0-9022-08E2C25B2525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
