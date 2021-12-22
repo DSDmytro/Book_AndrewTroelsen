@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_String", "008_String\00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_String_Escape characters, Verbatim string", "009_String_Escape characters, Verabtim string\009_String_Escape characters, Verbatim string.csproj", "{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_StringBuilder", "010_StringBuilder\010_StringBuilder.csproj", "{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39FCF0CA-F1EB-40D3-A2BC-4C2B7974B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
