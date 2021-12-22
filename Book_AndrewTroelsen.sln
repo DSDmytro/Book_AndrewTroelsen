@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_String_Escape character
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_StringBuilder", "010_StringBuilder\010_StringBuilder.csproj", "{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Type Conversions", "011_Type Conversions\011_Type Conversions.csproj", "{D5102C6F-E9A9-4342-A692-AE8AE267683E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4AAE27A-2EC6-4BCE-AE4C-01074BBF7FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5102C6F-E9A9-4342-A692-AE8AE267683E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5102C6F-E9A9-4342-A692-AE8AE267683E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5102C6F-E9A9-4342-A692-AE8AE267683E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5102C6F-E9A9-4342-A692-AE8AE267683E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
